@@ -7,7 +7,8 @@ A obtenção, análise e divulgação desses dados fazem parte da iniciativa [Po
 
 ## Publicações
 Os códigos desse repositório contribuiram para uma série de reportagens:
-1. [Agrotóxicos paraquate e glifosato mataram 214 brasileiros na última década, revela levantamento inédito](https://apublica.org/2020/09/exclusivo-agrotoxicos-paraquate-e-glifosato-mataram-214-brasileiros-na-ultima-decada/#Link3) 
+1. [Agrotóxicos paraquate e glifosato mataram 214 brasileiros na última década, revela levantamento inédito](https://apublica.org/2020/09/exclusivo-agrotoxicos-paraquate-e-glifosato-mataram-214-brasileiros-na-ultima-decada/#Link3)
+* [Empresas escondem intoxicações de trabalhadores rurais por agrotóxico](https://apublica.org/2020/09/empresas-escondem-intoxicacoes-de-trabalhadores-rurais-por-agrotoxico/)
 
 ## Organização do repositório
 
